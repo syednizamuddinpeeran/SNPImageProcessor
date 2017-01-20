@@ -9,6 +9,7 @@ namespace FunctionTester
     static class Program
     {
         /// <summary>
+        /// test
         /// The main entry point for the application.
         /// </summary>
         [STAThread]
